@@ -1,7 +1,7 @@
 # Datasets
 Find your Datasets here, please read manual guide before using the datasets
 
-# WVS 7 Indo
+# WVS 7 Indonesia
 Dataset WVS 7 Indo didapat dari World Value Survey yang dilaksanakan dari 2017-2022. Pada dataset ini terdiri dari 19 variabel penelitian, diantaranya:
 
 kebahagiaan:
