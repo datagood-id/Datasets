@@ -1,0 +1,90 @@
+Kelompok,Deskripsi,2014,2017,2021,Kode,Varname
+Demografi,Kode Provinsi,R101,prov,R101,R101,R101: Kode Provinsi
+Demografi,Klasifikasi Wilayah,R105,klas,R105,R105,R105: Klasifikasi Wilayah
+Demografi,Banyaknya Anggota Rumah Tangga Laki-laki,R201A,r201a,R201A,R201A,R201A: Banyaknya Anggota Rumah Tangga Laki-laki
+Demografi,Banyaknya Anggota Rumah Tangga Perempuan,R201B,r201b,R201B,R201B,R201B: Banyaknya Anggota Rumah Tangga Perempuan
+Demografi,Nomor Urut Anggota Rumah Tangga (ART),nuart,nuart,B4K1,R401,R401: Nomor Urut Anggota Rumah Tangga (ART)
+Demografi,Hubungan dengan Kepala Rumah Tangga (KRT),R403,b4_k3,B4K3,R403,R403: Hubungan dengan Kepala Rumah Tangga (KRT)
+Demografi,Jenis kelamin,R404,sex,B4K4,R404,R404: Jenis kelamin
+Demografi,Umur,R405,age,B4K5,R405,R405: Umur
+Demografi,Status Perkawinan,R406,marital,B4K6,R406,R406: Status Perkawinan
+Demografi,Pendidikan Tertinggi yang Ditamatkan,R407,edu,B4K7,R407,R407: Pendidikan Tertinggi yang Ditamatkan
+Demografi,Lama tinggal/menetap di desa/kelurahan ini,LAMA_TINGG,lama_tingg,LAMA_TINGG,LAMA_TINGG,LAMA_TINGG: Lama tinggal/menetap di desa/kelurahan ini
+Kesehatan,"Seberapa sering [NAMA] mengalami keluhan kesehatan (seperti panas, sakit kepala, batuk, pilek, nafas sesak, dll) selama 6 bulan terakhir?",R502A,r701a,R701A,R502A,"R502A: Seberapa sering [NAMA] mengalami keluhan kesehatan (seperti panas, sakit kepala, batuk, pilek, nafas sesak, dll) selama 6 bulan terakhir?"
+Kesehatan,Seberapa sering keluhan kesehatan tersebut menyebabkan terganggunya kegiatan sehari-hari [NAMA] selama 6 bulan terakhir?,R502B,r701b,R701B,R502B,R502B: Seberapa sering keluhan kesehatan tersebut menyebabkan terganggunya kegiatan sehari-hari [NAMA] selama 6 bulan terakhir?
+Kesehatan,Apakah [NAMA] mengidap penyakit kronis/menahun yang telah dinyatakan oleh dokter?,R503A,r702a,R702A,R503A,R503A: Apakah [NAMA] mengidap penyakit kronis/menahun yang telah dinyatakan oleh dokter?
+Kesehatan,Apa nama penyakit kronis/menahun [NAMA]?,R503B,r702b,R702B,R503B,R503B: Apa nama penyakit kronis/menahun [NAMA]?
+Kesehatan,"Selama 6 bulan terakhir, melakukan rawat inap",R504A1,r703a1,R703A1,R504A1,"R504A1: Selama 6 bulan terakhir, melakukan rawat inap"
+Kesehatan,"Selama 6 bulan terakhir, melakukan rawat jalan",R504A2,r703a2,R703A2,R504A2,"R504A2: Selama 6 bulan terakhir, melakukan rawat jalan"
+Kesehatan,Apakah melakukan upaya untuk menjaga kesehatan?,R507A,r705a,R705A,R507A,R507A: Apakah melakukan upaya untuk menjaga kesehatan?
+Kesehatan,Menjaga kesehatan dengan olahraga/aktivitas fisik,R507B1,r705b1,R705B1,R507B1,R507B1: Menjaga kesehatan dengan olahraga/aktivitas fisik
+Kesehatan,Menjaga kesehatan dengan mengatur pola makan,R507B2,r705b2,R705B2,R507B2,R507B2: Menjaga kesehatan dengan mengatur pola makan
+Kesehatan,Menjaga kesehatan dengan istirahat/tidur yang cukup,R507B3,r705b3,R705B3,R507B3,R507B3: Menjaga kesehatan dengan istirahat/tidur yang cukup
+Kesehatan,Menjaga kesehatan dengan mengkonsumsi vitamin/ suplemen,R507B4,r705b4,R705B4,R507B4,R507B4: Menjaga kesehatan dengan mengkonsumsi vitamin/ suplemen
+Kesehatan,"Menjaga kesehatan dengan melakukan pemeriksaan/terapi kesehatan, mengonsumsi obat",R507B5,r705b5,R705B5,R507B5,"R507B5: Menjaga kesehatan dengan melakukan pemeriksaan/terapi kesehatan, mengonsumsi obat"
+Kesehatan,Menjaga kesehatan dengan cara lainnya,R507B6,r705b6,R705B6,R507B6,R507B6: Menjaga kesehatan dengan cara lainnya
+Kesehatan,Seberapa sering mengalami sakit kepala?,R508A,r706a,R706A,R508A,R508A: Seberapa sering mengalami sakit kepala?
+Kesehatan,Seberapa sering mengalami gangguan pola makan?,R508B,r706b,R706B,R508B,R508B: Seberapa sering mengalami gangguan pola makan?
+Kesehatan,Seberapa sering mengalami gangguan tidur?,R508C,r706c,R706C,R508C,R508C: Seberapa sering mengalami gangguan tidur?
+Kesehatan,Seberapa sering merasa kesepian meskipun di tengah keramaian?,R508D,r706d,R706D,R508D,R508D: Seberapa sering merasa kesepian meskipun di tengah keramaian?
+Kesehatan,"Seberapa sering merasa gugup, tegang, cemas, atau gelisah berlebihan?",R508E,r706e,R706E,R508E,"R508E: Seberapa sering merasa gugup, tegang, cemas, atau gelisah berlebihan?"
+Kesehatan,Seberapa sering merasa takut secara berlebihan?,R508F,r706f,R706F,R508F,R508F: Seberapa sering merasa takut secara berlebihan?
+Kesehatan,Seberapa sering mengeluh atau merasa malas dalam melaksanakan kegiatan sehari- hari?,R508G,r706g,R706G,R508G,R508G: Seberapa sering mengeluh atau merasa malas dalam melaksanakan kegiatan sehari- hari?
+Kesehatan,Seberapa sering mengalami gangguan pencernaan?,R508H,r706h,R706H,R508H,R508H: Seberapa sering mengalami gangguan pencernaan?
+Kesehatan,Seberapa sering merasa cepat lelah secara berlebihan?,R508I,r706i,R706I,R508I,R508I: Seberapa sering merasa cepat lelah secara berlebihan?
+Kesehatan,Seberapa sering terlintas pikiran untuk mengakhiri hidup?,R508J,r706j,R706J,R508J,R508J: Seberapa sering terlintas pikiran untuk mengakhiri hidup?
+Kesehatan,Seberapa puas [NAMA]dengan kesehatan?,R509,r708,R708,R509,R509: Seberapa puas [NAMA]dengan kesehatan?
+Pendidikan,Pendidikan tertinggi yang ditamatkan,R601,r501,R501,R601,R601: Pendidikan tertinggi yang ditamatkan
+Pendidikan,"Mengikuti kegiatan pelatihan, kursus, penyuluhan, dan sejenisnya?",R602A,r503a,R504A,R602A,"R602A: Mengikuti kegiatan pelatihan, kursus, penyuluhan, dan sejenisnya?"
+Pendidikan,"Membaca media cetak atau elektronik (membaca koran/majalah/buku/dokumen elektronik/media lainnya, menonton televisi, mendengarkan radio dan sebagainya)?",R602C,r503b,R504B,R602C,"R602C: Membaca media cetak atau elektronik (membaca koran/majalah/buku/dokumen elektronik/media lainnya, menonton televisi, mendengarkan radio dan sebagainya)?"
+Pendidikan,Mendapatkan/membaca informasi/pengetahuan secara mandiri melalui internet?,R602D,r503c,R504C,R602D,R602D: Mendapatkan/membaca informasi/pengetahuan secara mandiri melalui internet?
+Pendidikan,Seberapa puas [NAMA] dengan pendidikan dan keterampilan yang dimiliki?,R603,r504,R505,R603,R603: Seberapa puas [NAMA] dengan pendidikan dan keterampilan yang dimiliki?
+Pekerjaan & Pendapatan,Apakah [NAMA] bekerja atau sementara tidak bekerja selama 1 minggu terakhir?,R701A,r601a,R601A,R701A,R701A: Apakah [NAMA] bekerja atau sementara tidak bekerja selama 1 minggu terakhir?
+Pekerjaan & Pendapatan,Apa kegiatan [NAMA] yang menggunakan waktu terbanyak selama 1 minggu terakhir?,R701B1,r601b1,R601B1,R701B1,R701B1: Apa kegiatan [NAMA] yang menggunakan waktu terbanyak selama 1 minggu terakhir?
+Pekerjaan & Pendapatan,Seberapa puas [NAMA] dengan kegiatan yang menggunakan waktu terbanyak tersebut?,R701B2,r601b2,R601B2,R701B2,R701B2: Seberapa puas [NAMA] dengan kegiatan yang menggunakan waktu terbanyak tersebut?
+Pekerjaan & Pendapatan,Apakah pekerjaan/usaha [NAMA] sesuai dengan bidang keahlian/keterampilan?,R703A,r603a,R604A,R703A,R703A: Apakah pekerjaan/usaha [NAMA] sesuai dengan bidang keahlian/keterampilan?
+Pekerjaan & Pendapatan,Apakah pekerjaan/usaha [NAMA] sesuai dengan minat/keinginan?,R703B,r603b,R604B,R703B,R703B: Apakah pekerjaan/usaha [NAMA] sesuai dengan minat/keinginan?
+Pekerjaan & Pendapatan,"Apakah penghasilan dari pekerjaan/usaha [NAMA] sesuai dengan jerih payah, baik dari sisi waktu maupun tenaga yang digunakan?",R703C,r603c,R604C,R703C,"R703C: Apakah penghasilan dari pekerjaan/usaha [NAMA] sesuai dengan jerih payah, baik dari sisi waktu maupun tenaga yang digunakan?"
+Pekerjaan & Pendapatan,Apakah situasi/kondisi di tempat kerja/usaha [NAMA] nyaman/menyenangkan?,R703D,r603d,R604D,R703D,R703D: Apakah situasi/kondisi di tempat kerja/usaha [NAMA] nyaman/menyenangkan?
+Pekerjaan & Pendapatan,Apakah pekerjaan/usaha [NAMA] mempunyai kepastian keberlangsungannya?,R703E,r603f,R604F,R703E,R703E: Apakah pekerjaan/usaha [NAMA] mempunyai kepastian keberlangsungannya?
+Pekerjaan & Pendapatan,Apakah tempat kerja /usaha [NAMA] mudah dicapai?,R703F,r603g,R604G,R703F,R703F: Apakah tempat kerja /usaha [NAMA] mudah dicapai?
+Pekerjaan & Pendapatan,Seberapa puas [NAMA] dengan pekerjaan/usaha?,R705,r605,R605,R705,R705: Seberapa puas [NAMA] dengan pekerjaan/usaha?
+Pekerjaan & Pendapatan,Apakah [NAMA]/pasangan mempunyai kebiasaan menabung uang selama 1 tahun terakhir?,R706A,r606a,R606,R706A,R706A: Apakah [NAMA]/pasangan mempunyai kebiasaan menabung uang selama 1 tahun terakhir?
+Pekerjaan & Pendapatan,Apakah [NAMA]/pasangan biasanya bersedekah dari sebagian harta (uang/barang) selama 1 tahun terakhir?,R707A,r607a,R607,R707A,R707A: Apakah [NAMA]/pasangan biasanya bersedekah dari sebagian harta (uang/barang) selama 1 tahun terakhir?
+Pekerjaan & Pendapatan,Apakah [NAMA]/pasangan memiliki dana pensiun atau jaminan hari tua?,R708,r608,R608,R708,R708: Apakah [NAMA]/pasangan memiliki dana pensiun atau jaminan hari tua?
+Pekerjaan & Pendapatan,Berapa rata-rata total pendapatan per bulan rumah tangga [NAMA] dalam 1 tahun terakhir?,R710,r609a,R609A,R710,R710: Berapa rata-rata total pendapatan per bulan rumah tangga [NAMA] dalam 1 tahun terakhir?
+Pekerjaan & Pendapatan,Apakah pendapatan rumah tangga [NAMA] biasanya mencukupi semua kebutuhan hidup sehari-hari rumah tangga?,R711A,r609b,R609B,R711A,R711A: Apakah pendapatan rumah tangga [NAMA] biasanya mencukupi semua kebutuhan hidup sehari-hari rumah tangga?
+Pekerjaan & Pendapatan,Seberapa puas [NAMA] dengan pendapatan rumah tangga?,R712,r610,R610,R712,R712: Seberapa puas [NAMA] dengan pendapatan rumah tangga?
+Lingkungan & Keamanan,Kondisi air tanah keruh,R801A1,r1101a1,R1101A1,R801A1,R801A1: Kondisi air tanah keruh
+Lingkungan & Keamanan,Kondisi air tanah berwarna,R801A2,r1101a2,R1101A2,R801A2,R801A2: Kondisi air tanah berwarna
+Lingkungan & Keamanan,Kondisi air tanah berasa,R801A3,r1101a3,R1101A3,R801A3,R801A3: Kondisi air tanah berasa
+Lingkungan & Keamanan,Kondisi air tanah berbusa,R801A4,r1101a4,R1101A4,R801A4,R801A4: Kondisi air tanah berbusa
+Lingkungan & Keamanan,Kondisi air tanah berbau,R801A5,r1101a5,R1101A5,R801A5,R801A5: Kondisi air tanah berbau
+Lingkungan & Keamanan,Kondisi udara berbau,R801B1,r1101b1,R1101B1,R801B1,R801B1: Kondisi udara berbau
+Lingkungan & Keamanan,Kondisi udara berdebu,R801B2,r1101b2,R1101B2,R801B2,R801B2: Kondisi udara berdebu
+Lingkungan & Keamanan,Kondisi udara berasap,R801B3,r1101b3,R1101B3,R801B3,R801B3: Kondisi udara berasap
+Lingkungan & Keamanan,Seberapa puas [NAMA] dengan keadaan lingkungan?,R802,r1102,R1102,R802,R802: Seberapa puas [NAMA] dengan keadaan lingkungan?
+Lingkungan & Keamanan,Seberapa puas [NAMA] dengan kondisi keamanan?,R805,r1104,R1108,R805,R805: Seberapa puas [NAMA] dengan kondisi keamanan?
+Kehidupan Keluarga,Seberapa sering [NAMA] bertemu/berbicara/ berkomu- nikasi dengan anggota keluarga selama 1 bulan terakhir?,R901A,r801a,R801A,R901A,R901A: Seberapa sering [NAMA] bertemu/berbicara/ berkomu- nikasi dengan anggota keluarga selama 1 bulan terakhir?
+Kehidupan Keluarga,Seberapa sering [NAMA] melakukan kegiatan bersama keluarga selama 1 bulan terakhir?,R901D,r801b,R801B,R901D,R901D: Seberapa sering [NAMA] melakukan kegiatan bersama keluarga selama 1 bulan terakhir?
+Kehidupan Keluarga,Seberapa sering [NAMA] bertengkar/tidak akur dengan anggota keluarga selama 1 bulan terakhir?,R901B,r801c,R801C,R901B,R901B: Seberapa sering [NAMA] bertengkar/tidak akur dengan anggota keluarga selama 1 bulan terakhir?
+Kehidupan Keluarga,Apakah [NAMA] merasa dihormati oleh seluruh anggota keluarga selama 1 bulan terakhir?,R901C,r801d,R801D,R901C,R901C: Apakah [NAMA] merasa dihormati oleh seluruh anggota keluarga selama 1 bulan terakhir?
+Kehidupan Keluarga,Seberapa puas [NAMA] dengan keharmonisan keluarga?,R903,r803,R802,R903,R903: Seberapa puas [NAMA] dengan keharmonisan keluarga?
+Kehidupan Sosial,Seberapa puas [NAMA] dengan hubungan sosial dengan warga di lingkungan sekitar tempat tinggal?,R1008,r1009,R1005,R1008,R1008: Seberapa puas [NAMA] dengan hubungan sosial dengan warga di lingkungan sekitar tempat tinggal?
+Waktu Luang,"Waktu luang digunakan untuk nonton tv/video/bioskop, dll?",R1101C1,r902b1,R902B1,R1101C1,"R1101C1: Waktu luang digunakan untuk nonton tv/video/bioskop, dll?"
+Waktu Luang,"Waktu luang digunakan untuk membaca koran, majalah, buku, dsj?",R1101C2,r902b2,R902B2,R1101C2,"R1101C2: Waktu luang digunakan untuk membaca koran, majalah, buku, dsj?"
+Waktu Luang,Waktu luang digunakan untuk berolahraga?,R1101C3,r902b3,R902B3,R1101C3,R1101C3: Waktu luang digunakan untuk berolahraga?
+Waktu Luang,Waktu luang digunakan untuk bersosialisasi dengan tetangga?,R1101C4,r902b4,R902B4,R1101C4,R1101C4: Waktu luang digunakan untuk bersosialisasi dengan tetangga?
+Waktu Luang,"Waktu luang digunakan untuk rekreasi, mengerjakan hobi, atau sejenisnya?",R1101C5,r902b5,R902B5,R1101C5,"R1101C5: Waktu luang digunakan untuk rekreasi, mengerjakan hobi, atau sejenisnya?"
+Waktu Luang,Seberapa puas [NAMA] dengan ketersediaan waktu luang?,R1102,r903,R903,R1102,R1102: Seberapa puas [NAMA] dengan ketersediaan waktu luang?
+Rumah dan Fasilitas Rumah,Apakah status penguasaan bangunan tempat tinggal yang [NAMA] tempati?,R1201,r1201,R1201,R1201,R1201: Apakah status penguasaan bangunan tempat tinggal yang [NAMA] tempati?
+Rumah dan Fasilitas Rumah,Berapa luas lantai bangunan tempat tinggal?,R1202,r1202,R1202,R1202,R1202: Berapa luas lantai bangunan tempat tinggal?
+Rumah dan Fasilitas Rumah,Apa jenis lantai rumah terluas?,R1203,r1203,R1203,R1203,R1203: Apa jenis lantai rumah terluas?
+Rumah dan Fasilitas Rumah,Apa sumber penerangan utama yang digunakan di rumah [NAMA]?,R1206A,r1206a,R1206A,R1206A,R1206A: Apa sumber penerangan utama yang digunakan di rumah [NAMA]?
+Rumah dan Fasilitas Rumah,Apa bahan bakar/energi utama yang digunakan untuk memasak di rumah [NAMA]?,R1207,r1206b,R1206B,R1207,R1207: Apa bahan bakar/energi utama yang digunakan untuk memasak di rumah [NAMA]?
+Rumah dan Fasilitas Rumah,Apa sumber air untuk minum yang digunakan di rumah [NAMA]?,R1209,r1208,R1208,R1209,R1209: Apa sumber air untuk minum yang digunakan di rumah [NAMA]?
+Rumah dan Fasilitas Rumah,Apakah rumah tangga memiliki/menguasai komputer/laptop/tablet?,R1210E,r1209b,R1210B,R1210E,R1210E: Apakah rumah tangga memiliki/menguasai komputer/laptop/tablet?
+Rumah dan Fasilitas Rumah,Apakah rumah tangga memiliki/menguasai peralatan audio/video player?,R1210F,r1209c,R1210C,R1210F,R1210F: Apakah rumah tangga memiliki/menguasai peralatan audio/video player?
+Rumah dan Fasilitas Rumah,Apakah rumah tangga memiliki/menguasai alat komunikasi?,R1210G,r1209d,R1210D,R1210G,R1210G: Apakah rumah tangga memiliki/menguasai alat komunikasi?
+Rumah dan Fasilitas Rumah,Seberapa puas [NAMA] dengan rumah dan fasilitas rumah?,R1211,r1210,R1211,R1211,R1211: Seberapa puas [NAMA] dengan rumah dan fasilitas rumah?
+Kebahagiaan Hidup,Seberapa bahagia [NAMA] dengan kehidupan secara keseluruhan?,,r1501,R1501,R1501,R1501: Seberapa bahagia [NAMA] dengan kehidupan secara keseluruhan?
